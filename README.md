@@ -18,3 +18,10 @@ python oop project for bank management system
     2. deposit_money()
     3. withdraw_money()
     4. check_balance()
+
+## task 3
+- Add following changes:
+    1. add multiple user and multiple banks
+    2. make a file to hold all classes and another for all objects
+    3. learn data handling to store data in some .txt file
+    4. learn error handling to stop program from crashing
